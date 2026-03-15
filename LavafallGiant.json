@@ -1,0 +1,11 @@
+{
+  "id": "LavafallGiant",
+  "name": "Lavafall Giant",
+  "author": "Cany0udance",
+  "description": "Adds a new skin for the Waterfall Giant enemy, \"Lavafall Giant\".",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": false
+}
