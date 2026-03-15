@@ -14,4 +14,11 @@ Properties/
 *.user
 *.DotSettings.user
 *.sln
+.gitattributes
+LavafallGiant.csproj
+LavafallGiant.json
+LavafallGiant.sln.DotSettings
+export_presets.cfg
+nuget.config
+project.godot
 project_structure.txt
