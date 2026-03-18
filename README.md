@@ -1,7 +1,5 @@
 # Lavafall Giant
 
-(requires beta branch) 
-
 Simply replaces the Waterfall Giant's texture with a more obsidian/lava-themed one.
 
 ![description](LavafallGiant/mod_image.png)
